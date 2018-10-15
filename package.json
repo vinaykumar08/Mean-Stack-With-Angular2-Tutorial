@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "Mean Stack with Anguar2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaykumar08/Mean-Stack-With-Angular2-Tutorial.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular2",
+    "Application"
+  ],
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaykumar08/Mean-Stack-With-Angular2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/vinaykumar08/Mean-Stack-With-Angular2-Tutorial#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.3"
+  }
+}
